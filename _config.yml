@@ -2,4 +2,7 @@ theme: jekyll-theme-slate
 
 # Site settings
 
-title: U'feng
+title: U'feng的博客
+SEOTitle: U'feng的博客 | U'feng Blog
+description: "写下栩栩如生的bug"
+url: "https://crazyyufeng.github.io/"
