@@ -1,1 +1,12 @@
 theme: jekyll-theme-slate
+
+# Site settings
+
+title: U'feng
+SEOTitle: U'feng的博客 | U'feng Blog
+header-img: img/home-bg-hill.jpg
+description: "写下栩栩如生的bug"
+keyword: "U'feng"
+url: "https://crazyyufeng.github.io/"
+baseurl: ""
+...
