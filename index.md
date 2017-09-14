@@ -2,6 +2,8 @@
 layout: default
 ---
 
+[我的第一篇文章(git 手札)](./git/git_operation.md)
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](another-page).
