@@ -4,6 +4,8 @@ layout: default
 
 [我的第一篇文章(git 手札)](./git/git_operation.md)
 
+[linux目录及理解](./linux/linux_catalog.md)
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](another-page).
