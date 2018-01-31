@@ -6,6 +6,8 @@ layout: default
 
 [linux目录及理解](./linux/linux_catalog.md)
 
+[php 函数 手札](./php_function/php_function.md)
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](another-page).
